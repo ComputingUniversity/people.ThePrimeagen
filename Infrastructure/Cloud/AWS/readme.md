@@ -1,0 +1,1 @@
+- [Casey Breaks Down AWS Outage | The Standup](https://youtu.be/gstn9qcNdlc)
